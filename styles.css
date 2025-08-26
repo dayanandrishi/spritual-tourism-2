@@ -108,6 +108,7 @@ header {
     position: fixed;
     top: 0;
     width: 100%;
+    height: 80px;
     background: rgba(139, 69, 19, 0.95);
     backdrop-filter: blur(10px);
     z-index: 1000;
@@ -998,3 +999,4 @@ footer {
         page-break-inside: avoid;
     }
 }
+
